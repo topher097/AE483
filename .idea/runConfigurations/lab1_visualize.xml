@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="lab1_visualize" type="MatlabApplication" factoryName="Matlab" singleton="false">
+    <option name="FILE_PATH" value="C:\Python\AE483\lab1_visualize.m" />
+    <option name="INTERPRETER_PATH" value="C:\Program Files\MATLAB\R2018b\bin\matlab.exe" />
+    <option name="WORKING_DIRECTORY" value="" />
+    <option name="PARENT_ENVS" value="true" />
+    <option name="PARAMETERS" value="" />
+    <option name="INTERPRETER_OPTIONS" value="" />
+    <method v="2" />
+  </configuration>
+</component>
